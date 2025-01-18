@@ -1,5 +1,3 @@
-# NewsAppBoilerplateJava
-
 ## Code checkout 
 Checkout the project using proper git credentials.
 
